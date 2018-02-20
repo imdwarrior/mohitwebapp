@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgrey;
+    margin-top: 60px;
+}
+
+.center {
+    text-align: center;
+}
+
+.text-big {
+    font-size: 300%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    height: 200px;
+}
+
+.container{
+            max-width: 800px;
+            margin: 0 auto;
+            color: #12465afa;
+            font-family: magneto;
+            padding-left: 10px;
+            padding-right: 10px;
+        }

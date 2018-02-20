@@ -1,2 +1,3 @@
-# mohitwebapp
-imadcopy
+# imad-app
+
+IMAD course application.
