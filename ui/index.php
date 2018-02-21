@@ -1,5 +1,4 @@
-<!doctype html>
-<html>
+<?php
     <head>
         <link href="/ui/style.css" rel="stylesheet" />
     </head>
@@ -9,9 +8,9 @@
         </div>
         <br>
         <div class="center text-big bold">
-            Hi! I am Mohit, and this is my first webapp.
+            echo Hi! I am Mohit, and this is my first webapp.
         </div>
         <script type="text/javascript" src="/ui/main.js">
         </script>
     </body>
-</html>
+?>
